@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello👋, I'm Doan Cong Dat </h1>
-<p> - 💻&nbsp; I'm a Sorfware Engineer student at <strong>Ho Chi Minh city University of Technology and Education</strong>(https://sinhvien.huit.edu.vn).</p>
+<p> - 💻&nbsp; I'm a Sorfware Engineer student at <strong>Ho Chi Minh city  University of Industry and Trade</strong>(https://sinhvien.huit.edu.vn).</p>
 <p> - ✍️&nbsp;In my free time, I enjoy listening to music and reading books.</p>
 
 ## 👩‍💻 Languages and Tools:
